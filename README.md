@@ -1,3 +1,16 @@
+https://nft-web3-qgtwhudbb-bilke12.vercel.app/nft/matej-apes - LIVE REAL NFT MINTING WEB PAGE
+
+This is real NFT minting webpage that uses metaMask to mint real nfts from sanity database, currently on test eth ( NOT REAL ETH). 
+If you want to add testing ETH, go to https://faucets.chain.link/rinkeby and add ETH Rinkeby so you have some of it on your account. When you successfully mint an NFT you will own it on your testnets.opensea.io . Enjoy :)
+
+
+
+
+
+
+
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
